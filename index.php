@@ -53,7 +53,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
-	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
 	
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	
@@ -69,7 +69,7 @@
 		      	<div class="icon d-flex align-items-center justify-content-center">
 		      		<span class="fa fa-user-o"></span>
 		      	</div>
-		      	<h3 class="text-center mb-4">MyTumblr Login</h3>
+		      	<h3 style="font-family:Roboto" class="text-center mb-4">MyTumblr Login</h3>
 						
 						<form method="POST" class="login-form">
 		      		<div class="form-group">
@@ -107,24 +107,24 @@
 		      			}
 		      			?>
 		      			
-		      			<input type="text" class="form-control rounded-left" placeholder="Username" name="form_username" required>
+		      			<input style="font-family:Roboto" type="text" class="form-control rounded-left" placeholder="Username" name="form_username" required>
 		      		</div>
 	            <div class="form-group d-flex">
-	              <input type="password" class="form-control rounded-left" placeholder="Password" name="form_password" required>
+	              <input style="font-family:Roboto" type="password" class="form-control rounded-left" placeholder="Password" name="form_password" required>
 	            </div>
 	            <div class="form-group d-md-flex">
 	            	<div class="w-50">
-	            		<label class="checkbox-wrap checkbox-primary">Remember Me
+	            		<label style="font-family:Roboto"class="checkbox-wrap checkbox-primary">Remember Me
 									  <input type="checkbox" checked>
 									  <span class="checkmark"></span>
 									</label>
 								</div>
 								<div class="w-50 text-md-right">
-									<a href="#">Forgot Password</a>
+									<a style="font-family:Roboto" href="#">Forgot Password</a>
 								</div>
 	            </div>
 	            <div class="form-group">
-	            	<button type="submit" class="btn btn-primary rounded submit p-3 px-5" name="login_button" >Get Started</button>
+	            	<button style="font-family:Roboto" type="submit" class="btn btn-primary rounded submit p-3 px-5" name="login_button" >Get Started</button>
 	            </div>
 	          </form>
 	        </div>
