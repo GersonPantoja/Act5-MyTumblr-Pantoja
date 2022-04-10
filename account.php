@@ -35,6 +35,7 @@
     background-repeat: no-repeat
 }
 
+
 body {
     background: #654ea3;
     background: linear-gradient(to right, #43cea2, #185a9d);
@@ -50,8 +51,8 @@ body {
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-4 pt-0 pb-4 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="images/photo-profile.jpg" alt="..." width="150" class="rounded mb-2 img-thumbnail">
-                        <a href="?logout" class="btn btn-outline-dark btn-sm btn-block">Sign out</a>
+                    <div class="profile mr-3"><img src="images/photo-profile.jpg" alt="..." width="120" class="rounded mb-2 img-thumbnail">
+                        <a href="?logout" class="btn btn-outline-danger btn-sm btn-block">Sign out</a>
 
 
                     </div>
@@ -101,6 +102,7 @@ body {
 
             <div class="px-4 py-3">
                 <div class="p-4 rounded shadow-sm bg-light">
+                    <hr size="50">
                     <p class="font-italic mb-0">All Rights Reserved. Copyright 2022</p>
                 </div>
             </div>
