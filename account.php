@@ -43,7 +43,7 @@ body {
 }</style>
                                 </head>
                                 <body oncontextmenu='return false' class='snippet-body'>
-                                <div style="font-family: Georgia">
+                                <div class="font-family: Georgia">
                                 <div class="row py-5 px-4">
     <div class="col-md-5 mx-auto">
         <!-- Profile widget -->

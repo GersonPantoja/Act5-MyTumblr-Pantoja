@@ -55,7 +55,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #2125;
   text-align: left;
   background-color: #fff; }
 
@@ -8138,7 +8138,7 @@ body {
   line-height: 1.8;
   font-weight: normal;
   background: #f8f9fd;
-  color: gray; }
+  color: lightgray; }
 
 a {
   -webkit-transition: .3s all ease;
